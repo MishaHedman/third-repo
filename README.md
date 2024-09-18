@@ -21,5 +21,17 @@ if (3 > 2):
 else:
     Print("math is wrong")
 ```
+Here is a link to [GitHub](https://github.com)
+
+or a link to [Google](https;//www.google.com)
+
+Here is an example of an image
+![Mickey Mouse] (https://d23.com/app/uploads/2013/04/1180w-600h_mickey-mouse_1.jpg)
+
+an example of a bullet list:
+*one
+*Two
+*Three
+*Four
 
 
